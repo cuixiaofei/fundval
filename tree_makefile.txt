@@ -1,0 +1,10 @@
+.
+├── Makefile
+├── README_Makefile.md
+├── VERSION
+├── scripts
+│   └── show_env_info.sh
+├── ssh_config.example
+└── tree_makefile.txt
+
+2 directories, 6 files
