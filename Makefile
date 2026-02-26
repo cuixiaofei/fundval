@@ -8,7 +8,7 @@ SHELL := /bin/bash
 #=============================================================================#
 # 项目基础配置 | Project Basic Configuration
 #=============================================================================#
-PROJECT_NAME := mydotfiles
+PROJECT_NAME := fundval
 VERSION_FILE := VERSION
 CURRENT_DATE := $(shell date +%Y-%m-%d)
 TIMESTAMP := $(shell date +%Y%m%d_%H%M%S)
