@@ -211,4 +211,9 @@ python fund_valuation_runner.py --monitor -t 60
 
 ## 许可证
 
-MIT License
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).  
+See the [LICENSE](LICENSE) file for details.
+
+SPDX-License-Identifier: GPL-3.0-or-later
